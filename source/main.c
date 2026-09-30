@@ -25,6 +25,7 @@
 #include <vitasdk.h>
 #include <kubridge.h>
 #include <stdio.h>
+#include <string.h>
 
 int _newlib_heap_size_user = 256 * 1024 * 1024;
 
